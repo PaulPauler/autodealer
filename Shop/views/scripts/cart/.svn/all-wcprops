@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autodealer/!svn/ver/2227/stable/Modules/Shop/views/scripts/cart
+END
+menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autodealer/!svn/ver/2206/stable/Modules/Shop/views/scripts/cart/menu.tpl
+END
+empty-cart.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/autodealer/!svn/ver/2129/stable/Modules/Shop/views/scripts/cart/empty-cart.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autodealer/!svn/ver/2206/stable/Modules/Shop/views/scripts/cart/index.tpl
+END
+completed.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/autodealer/!svn/ver/2206/stable/Modules/Shop/views/scripts/cart/completed.tpl
+END
+old.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autodealer/!svn/ver/2137/stable/Modules/Shop/views/scripts/cart/old.tpl
+END
